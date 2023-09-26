@@ -1,0 +1,21 @@
+Caller: I ordered my food over an hour ago, and it's still not here. I'm starving!
+
+Agent: I understand your frustration, sir. I can see that your order was placed an hour ago, and it's currently listed as "in transit." I'm going to reach out to the driver now to see what the delay is.
+
+Caller: I don't want to hear excuses! I just want my food!
+
+Agent: I apologize for the inconvenience, sir. I'm doing everything I can to get your food to you as quickly as possible.
+
+Caller: Fine. Just hurry up.
+
+Agent: Okay, sir. I've spoken to the driver, and he's just a few minutes away from your location. You should have your food within the next five minutes.
+
+Caller: Okay. We'll see about that.
+
+Agent: Sir, I'm just calling to let you know that the driver is now at your door.
+
+Caller: Finally! Thank you.
+
+Agent: You're welcome, sir. I hope you enjoy your meal.
+
+Caller: We'll see about that.
